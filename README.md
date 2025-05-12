@@ -29,6 +29,9 @@ uvicorn main:app --reload
 
 ```
 
-## Example Queries for api call
+## Example Query for api call
+
+```
 
 curl -X POST http://localhost:8000/ask -H "Content-Type: application/json" -d '{"question": "جانداران چند گونه هستند؟"}'
+```
