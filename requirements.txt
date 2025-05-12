@@ -1,0 +1,15 @@
+fastapi>=0.95.2
+uvicorn>=0.21.1
+langchain-huggingface>=0.2.0
+langchain>=0.0.240
+langchain-community>=0.3.23
+python-dotenv>=1.0.0
+faiss-cpu>=1.7.4
+pydantic>=1.10.7
+python-multipart>=0.0.6
+requests>=2.31.0
+pypdf>=3.10.0
+python-docx>=0.8.11
+unstructured>=0.7.2
+unstructured[pdf]==0.15.0
+nltk==3.8.1
